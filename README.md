@@ -6,4 +6,4 @@
 4. Pada halaman login, klik kanan pada wilayah kosong, lalu setlayout ke absolutelayout.
 5. Pada halaman Dashboard, terdapat 4 kotak warna-warni di bagian atas, klik kanan dan set layout ke absolutelayout di masing-masing kotak.
 6. Klik kanan pada folder "Libraries" project, lalu pilih properties dan ubah Java Platform ke JDK8.
-7. Jika masih ada error, import semua file berekstensi .jar yang ada di folder "Kumpulan JAR".
+7. Jika masih ada error, import semua file berekstensi .jar yang ada di folder "Kumpulan JAR" ke dalam folder "Libraries" project.
